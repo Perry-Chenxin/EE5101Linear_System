@@ -1,2 +1,2 @@
-# EE5101_Linear_System
+# EE5101 Linear System
 NUS EE 5101
